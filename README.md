@@ -88,6 +88,7 @@ Deploy to Raspberry Pi/Jetson Nano for edge computing.
 Personalized EAR/MAR calibration per user.
 
 🧑‍💻 Contributors
+
 Sounak Dutta
 
 Shambhavi Palak
